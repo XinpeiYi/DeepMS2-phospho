@@ -37,7 +37,7 @@ setwd("{PATH_TO_DATA}")
 source("{PATH_TO_CODE}/scripts/pdeep2/pdeep2_mgf_to_ions.R")
 ```
 
-The MS2PIP CSV are converted to JSON files.
+The pDeep2 mgf are converted to JSON files.
 - 130418_03_SynthMix1_Sphospho1_charge2.pdeep2.ions.json
 - 130418_03_SynthMix1_Sphospho1_charge3.pdeep2.ions.json
 - 130418_03_SynthMix1_Tphospho1_charge2.pdeep2.ions.json
